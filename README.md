@@ -76,13 +76,12 @@
 
 <table align="center" width="100%">
   <tr>
-    <!-- Use pixel values (580 / 420) instead of % to force max-content to 1000px -->
+    <!-- Both columns use valign="top" so the <h3> headers stay at the exact same height -->
     <td width="580" valign="top">
       <h3 align="center">🏆 Certifications</h3>
       <!-- Inner table for the 2x2 certification grid -->
       <table align="center" width="100%">
         <tr>
-          <!-- Force inner cells to expand evenly as well -->
           <td width="290" align="center">
             <a href="https://www.credly.com/badges/0ea848d5-32df-4d9e-ba7c-426e2880695c" target="_blank">
               <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect - Associate" />
@@ -113,8 +112,11 @@
         </tr>
       </table>
     </td>
-    <td width="420" valign="middle">
+    <td width="420" valign="top">
       <h3 align="center">⚔️ Tech Arsenal</h3>
+      <!-- Extra line breaks push the icon stack to the vertical center without moving the <h3> header -->
+      <br/>
+      <br/>
       <p align="center">
         <!-- Row 1: Core & Cloud -->
         <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,aws,docker&theme=dark" alt="Tech Stack Top" />
@@ -129,7 +131,6 @@
     </td>
   </tr>
 </table>
-
 
 <!-- ================= LINKS & CONNECTIONS ================= -->
 
