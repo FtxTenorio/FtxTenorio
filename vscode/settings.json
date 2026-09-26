@@ -1,0 +1,92 @@
+{
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    ".claude/rules": true,
+    "~/.copilot/instructions": true,
+    "~/.claude/rules": true,
+    "/tmp/postman-collections-post-response.instructions.md": true,
+    "/tmp/postman-collections-pre-request.instructions.md": true,
+    "/tmp/postman-folder-post-response.instructions.md": true,
+    "/tmp/postman-folder-pre-request.instructions.md": true,
+    "/tmp/postman-http-request-post-response.instructions.md": true,
+    "/tmp/postman-http-request-pre-request.instructions.md": true
+  },
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Dracula Theme",
+
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "eslint.enable": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // =========================
+  // VSCodeVim
+  // =========================
+
+  // Ctrl shortcuts ficam com o VS Code.
+  "vim.useCtrlKeys": false,
+
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-c>": false,
+    "<C-f>": false,
+    "<C-p>": false,
+    "<C-s>": false,
+    "<C-v>": false,
+    "<C-x>": false,
+    "<C-z>": false
+  },
+
+  // Yanks vão para o clipboard do sistema.
+  "vim.useSystemClipboard": true,
+
+  // Não deixa o Vim substituir o comportamento de copy do VS Code.
+  "vim.overrideCopy": false,
+
+  // DELETE / CHANGE usam o black-hole register.
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["d"],
+      "after": ["\"", "_", "d"]
+    },
+    {
+      "before": ["x"],
+      "after": ["\"", "_", "x"]
+    },
+    {
+      "before": ["X"],
+      "after": ["\"", "_", "X"]
+    },
+    {
+      "before": ["c"],
+      "after": ["\"", "_", "c"]
+    }
+  ]
+}
