@@ -133,6 +133,9 @@
 
 <!-- ================= LINKS & CONNECTIONS ================= -->
 
+<p align="center">🇬🇧 United Kingdom</p>
+
+  <br/>
 <div align="center">
 
   <p align="center">
@@ -152,10 +155,7 @@
   </p>
 
   <br/>
-
-🇬🇧 **United Kingdom**
-
-  <br/>
+  
   <sub>🇧🇷</sub>
 
 </div>
