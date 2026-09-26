@@ -74,6 +74,63 @@
 
 ---
 
+<table align="center" width="100%">
+  <tr>
+    <!-- Use pixel values (580 / 420) instead of % to force max-content to 1000px -->
+    <td width="580" valign="top">
+      <h3 align="center">🏆 Certifications</h3>
+      <!-- Inner table for the 2x2 certification grid -->
+      <table align="center" width="100%">
+        <tr>
+          <!-- Force inner cells to expand evenly as well -->
+          <td width="290" align="center">
+            <a href="https://www.credly.com/badges/0ea848d5-32df-4d9e-ba7c-426e2880695c" target="_blank">
+              <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect - Associate" />
+            </a>
+          </td>
+          <td width="290" align="center">
+            <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner" target="_blank">
+              <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS Certified AI Practitioner" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td width="290" align="center">
+            <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
+              <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner" />
+            </a>
+          </td>
+          <td width="290" align="center">
+            <a href="https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-003" target="_blank">
+              <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" alt="HashiCorp Certified Terraform Associate" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center">
+            <sub>AWS · HashiCorp · Cloud · Infrastructure</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="420" valign="middle">
+      <h3 align="center">⚔️ Tech Arsenal</h3>
+      <p align="center">
+        <!-- Row 1: Core & Cloud -->
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,aws,docker&theme=dark" alt="Tech Stack Top" />
+      </p>
+      <p align="center">
+        <b><sub>⚡ Backend · Cloud · Infrastructure · Databases · AI ⚡</sub></b>
+      </p>
+      <p align="center">
+        <!-- Row 2: Infra, Languages & DBs -->
+        <img src="https://skillicons.dev/icons?i=terraform,python,postgres,redis,mongodb&theme=dark" alt="Tech Stack Bottom" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <!-- ================= LINKS & CONNECTIONS ================= -->
 
 <div align="center">
