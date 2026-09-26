@@ -7,7 +7,7 @@
 <!-- ================= TYPING TEXT ================= -->
 
   <a href="https://itenorio.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=55&lines=Hey+there!+I+am+Paulo+(aka+FtxTenorio)+%F0%9F%91%8B;Senior+Backend+Engineer+and+Cloud+Architect+%F0%9F%87%AC%F0%87%A7;Building+APIs%2C+Serverless+Infra+and+Local+AI+Agents+%F0%9F%9A%80;Based+in+the+United+Kingdom+%F0%9F%87%AC%F0%87%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=55&lines=Hey+there!+I+am+Paulo+(aka+FtxTenorio)+%F0%9F%91%8B;Senior+Backend+Engineer+and+Cloud+Architect;Building+APIs%2C+Serverless+Infra+and+Local+AI+Agents+%F0%9F%9A%80;Based+in+the+United+Kingdom" alt="Typing SVG" />
   </a>
 
   <br/>
