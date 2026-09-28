@@ -64,11 +64,12 @@
           <td align="right"><img src="https://geps.dev/progress/100?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981" /></td>
         </tr>
       </table>
+      
 ```diff
-+ Status: Open to High-Impact B2B Contracts & Architecture Challenges
++ Status: Open to High-Impact B2B Contracts
 - Tolerance for unindexed database queries: 0%
-```
-    </td>
+```      
+   </td>
   </tr>
 </table>
 
